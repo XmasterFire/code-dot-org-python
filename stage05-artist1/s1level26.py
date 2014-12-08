@@ -11,7 +11,9 @@ import codestudio
 artist = codestudio.load('s1level26')
 a = artist
 
-for count in range(4):
-    pass                                         # ???
+for count in range(4):                                        
+    a.forward(100)
+    a.right(90)
 
+    
 artist.check()

@@ -13,6 +13,11 @@ a = artist
 
 artist.color = 'red'
 
-# ???
-
+a.forward(100)
+a.right(90)
+a.forward(100)
+a.right(90)
+a.forward(100)
+a.right(90)
+a.forward(100)
 artist.check()
