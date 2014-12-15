@@ -14,6 +14,19 @@ a = artist
 
 artist.color = 'green'
 artist.right(90)
-# ???
-
+artist.forward(100)
+artist.right(90)
+artist.forward(100)
+artist.right(90)
+artist.forward(100)
+artist.right(90)
+artist.forward(100)
+artist.left(90)
+artist.forward(150)
+artist.left(90)
+artist.forward(100)
+artist.left(90)
+artist.forward(100)
+artist.left(90)
+artist.forward(100)
 artist.check()
